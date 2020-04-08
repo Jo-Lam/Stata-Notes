@@ -1,0 +1,1170 @@
+id,school,sex,yrgrp,fsm,ethnic,sdq,mhp,slfhrm,conduct
+93510018,3,2,7,0,Black African,10,no,no,8
+93510125,3,1,7,0,Black Caribbean,12,no,,10
+93510289,3,1,8,0,Latino,14,no,no,8
+93510185,3,2,8,1,Mixed white and black,14,no,,8
+93510239,3,1,9,0,Mixed white and black,6,no,no,5
+93510264,3,2,8,0,Other black,13,no,no,10
+93510234,3,1,7,0,Black Caribbean,16,no,no,8
+93510016,3,1,8,0,Black African,13,no,no,12
+93510167,3,2,8,1,Black African,17,no,no,11
+93510001,3,1,8,1,Mixed white and black,14,no,"yes, ever",10
+93510246,3,1,9,0,White British,6,no,no,6
+93593509,3,1,8,0,Black Caribbean,10,no,no,7
+93510078,3,1,7,0,Black Caribbean,6,no,no,3
+93510231,3,2,9,0,Black African,20,yes,"yes, ever",10
+93510182,3,1,8,0,Black Caribbean,16,no,no,11
+93510257,3,2,8,0,Black Caribbean,12,no,no,4
+93510050,3,2,7,1,Mixed white and black,9,no,,4
+93593593,3,1,9,0,Black African,6,no,no,3
+93510253,3,2,8,1,White British,20,yes,no,11
+93510493,3,2,9,1,Other white,19,yes,"yes, ever",4
+93510259,3,2,8,1,Any other,9,no,,4
+93510254,3,1,8,0,Black Caribbean,12,no,"yes, ever",7
+93510482,3,1,9,1,Any other,16,no,no,13
+93510211,3,2,8,1,Black Caribbean,13,no,no,5
+93510272,3,2,9,0,Black African,18,yes,no,7
+93510252,3,2,8,0,White British,12,no,no,5
+93510067,3,2,7,1,"Indian, Pakistani, Bangladeshi",21,yes,,9
+93510426,3,2,7,0,Other white,0,no,no,0
+93510250,3,2,8,0,Other white,1,no,no,0
+93593574,3,2,8,0,Any other,8,no,no,6
+93510083,3,1,8,0,White British,14,no,no,4
+93593567,3,1,8,0,Mixed/multiple,12,no,no,8
+93510205,3,1,8,0,Black African,8,no,no,7
+93510263,3,1,8,0,Latino,11,no,no,6
+93593560,3,1,7,0,White British,15,no,no,11
+93593536,3,1,9,1,White British,19,yes,no,12
+93510242,3,1,7,0,Black Caribbean,15,no,,10
+93510255,3,1,8,0,Latino,15,no,no,13
+93593590,3,1,8,1,White British,18,yes,no,11
+93510298,3,1,9,1,Mixed white and black,6,no,no,0
+93510247,3,1,9,1,Mixed/multiple,7,no,"yes, ever",1
+93510460,3,1,9,0,Black African,,,,
+93510097,3,2,7,,Mixed white and black,17,no,,11
+93510258,3,2,7,0,Any other,12,no,no,6
+93510220,3,1,9,0,Black Caribbean,5,no,no,4
+93510056,3,1,7,0,Other white,14,no,,10
+93510101,3,1,8,0,Black African,19,yes,no,11
+93510169,3,2,8,0,Mixed/multiple,20,yes,"yes, ever",7
+93510240,3,1,7,1,Other white,25,yes,,13
+93510215,3,1,8,1,"Indian, Pakistani, Bangladeshi",8,no,no,5
+93510480,3,2,9,,Latino,15,no,no,9
+93510212,3,1,8,1,Latino,18,yes,no,13
+93510417,3,1,8,0,Black African,30,yes,no,18
+93593545,3,2,8,,Mixed white and black,11,no,no,5
+93510214,3,1,8,1,White British,11,no,no,6
+93510155,3,2,9,,White British,14,no,no,11
+93510222,3,2,7,0,Other white,10,no,,4
+93510190,3,2,8,0,Latino,15,no,"yes, ever",10
+93510149,3,1,9,0,Latino,9,no,no,6
+93510456,3,1,9,,Black Caribbean,,,,8
+93510409,3,1,8,0,Other black,36,yes,"yes, ever",20
+93593519,3,2,9,0,White British,17,no,no,9
+93510468,3,1,9,0,Black Caribbean,13,no,no,9
+93510484,3,1,9,0,Mixed white and black,9,no,"yes, ever",6
+93510279,3,2,8,1,Black African,5,no,no,3
+93510070,3,1,7,0,White British,27,yes,"yes, ever",15
+93510229,3,2,7,1,Black Caribbean,25,yes,no,10
+93510403,3,2,8,0,.c,13,no,no,8
+93510432,3,1,7,0,White British,9,no,no,4
+93510286,3,2,8,0,Other white,11,no,,9
+93510199,3,1,8,0,Latino,15,no,,7
+93510293,3,2,7,0,White British,21,yes,"yes, ever",10
+93510174,3,1,8,0,Black African,13,no,"yes, ever",8
+93510171,3,2,8,0,"Indian, Pakistani, Bangladeshi",2,no,no,0
+93593589,3,2,8,0,Mixed white and black,18,yes,no,7
+93593566,3,1,8,0,Latino,17,no,no,9
+93510063,3,1,7,0,Black African,9,no,no,4
+93510195,3,2,8,0,"Indian, Pakistani, Bangladeshi",20,yes,,10
+93510002,3,1,7,0,Other white,15,no,"yes, ever",8
+93510210,3,2,8,0,Black African,4,no,no,2
+93510196,3,1,8,1,Black Caribbean,2,no,no,1
+93510233,3,2,9,0,Latino,16,no,"yes, ever",8
+93593506,3,2,7,0,White British,7,no,no,2
+93510281,3,1,9,0,White British,18,yes,no,14
+93593507,3,1,7,0,Black African,14,no,no,6
+93593508,3,1,8,0,Other white,12,no,no,7
+93510442,3,2,8,0,White British,10,no,no,4
+93510465,3,1,9,1,Other black,7,no,no,3
+93510052,3,2,7,1,Black African,19,yes,,8
+93593511,3,1,9,1,Any other,11,no,no,5
+93510176,3,1,8,0,Any other,24,yes,no,14
+93593514,3,2,9,0,Black Caribbean,10,no,,5
+93593515,3,2,8,0,White British,2,no,no,0
+93593516,3,1,8,0,Black Caribbean,7,no,no,4
+93510084,3,1,8,0,Black Caribbean,13,no,no,8
+93510440,3,1,8,,Other white,9,no,no,1
+93510277,3,1,8,0,Other white,15,no,,7
+93510119,3,2,7,0,Black Caribbean,12,no,no,6
+93510251,3,1,7,0,Other black,20,yes,,11
+93510453,3,2,9,1,Black Caribbean,13,no,,8
+93510069,3,2,9,0,Mixed white and black,18,yes,no,5
+93593513,3,2,9,1,Other white,9,no,no,5
+93510128,3,1,7,0,Black African,20,yes,no,10
+93510542,3,1,9,0,Black African,11,no,no,4
+93510152,3,1,9,0,Other white,13,no,no,11
+93510088,3,2,9,1,Black African,14,no,no,5
+93593552,3,1,9,0,Black Caribbean,10,no,no,6
+93510487,3,1,9,0,Black Caribbean,5,no,no,2
+93510032,3,1,8,0,Black Caribbean,10,no,no,8
+93510181,3,2,8,0,Other white,10,no,,8
+93510402,3,1,8,0,Black Caribbean,,,,16
+93593556,3,2,9,0,Black Caribbean,26,yes,,13
+93510132,3,2,9,0,White British,14,no,,6
+93593562,3,1,8,,Black African,18,yes,no,6
+93510012,3,2,7,,White British,6,no,"yes, ever",4
+93510060,3,2,9,0,Latino,7,no,no,0
+93593563,3,1,8,0,.c,7,no,no,3
+93510461,3,1,9,0,Black Caribbean,10,no,,2
+93510137,3,2,9,1,Mixed white and black,20,yes,"yes, ever",12
+93510292,3,2,9,0,White British,16,no,"yes, ever",3
+93510454,3,1,9,0,Other white,12,no,"yes, ever",5
+93510189,3,1,8,0,Black Caribbean,5,no,no,1
+93510434,3,2,7,0,Black Caribbean,10,no,no,4
+93593564,3,2,8,0,Mixed/multiple,11,no,no,4
+93510221,3,1,7,0,White British,7,no,"yes, ever",3
+93510219,3,1,9,0,Black Caribbean,10,no,no,6
+93593512,3,1,9,1,Mixed/multiple,11,no,no,11
+93510458,3,1,9,0,Black Caribbean,13,no,no,10
+93510081,3,2,8,0,White British,8,no,no,6
+93510055,3,2,7,0,Other black,8,no,no,2
+93510011,3,1,7,0,Latino,17,no,,9
+93510405,3,2,8,0,Other white,10,no,no,5
+93510535,3,2,9,1,Any other,11,no,no,4
+93510044,3,2,7,0,Other black,22,yes,"yes, ever",10
+93510531,3,2,9,0,Other white,7,no,no,0
+93510437,3,1,8,0,Mixed white and black,13,no,no,13
+93593594,3,1,9,0,White British,7,no,no,4
+93510009,3,1,7,0,Mixed/multiple,10,no,no,7
+93593547,3,2,7,0,Mixed white and black,16,no,,14
+93510534,3,1,9,,Other white,11,no,no,6
+93510404,3,1,8,1,Any other,,,"yes, ever",7
+93510276,3,1,8,1,Black African,3,no,no,0
+93510043,3,1,8,0,Black Caribbean,9,no,no,6
+93510265,3,1,8,0,Other black,9,no,no,3
+93510438,3,2,8,0,Black Caribbean,21,yes,,11
+93510172,3,1,8,1,Other black,7,no,no,4
+93510049,3,2,7,0,Black African,10,no,no,3
+93510489,3,1,9,,Any other,3,no,no,1
+93593544,3,2,8,1,Black Caribbean,17,no,no,11
+93510020,3,1,9,0,Black African,15,no,no,8
+93510414,3,2,7,0,Any other,8,no,no,5
+93510479,3,1,9,1,Other white,13,no,no,9
+93593577,3,1,8,0,Any other,13,no,no,12
+93510418,3,2,8,0,Black African,10,no,no,8
+93510419,3,1,8,0,Mixed/multiple,7,no,no,2
+93510270,3,2,7,0,Black African,7,no,no,4
+93510421,3,2,7,0,Any other,14,no,no,6
+93510098,3,2,7,0,White British,3,no,no,1
+93510467,3,2,9,1,Black African,16,no,,7
+93593557,3,1,9,0,Other white,11,no,no,9
+93510048,3,2,7,0,Mixed white and black,5,no,no,3
+93510010,3,1,8,0,White British,9,no,no,7
+93510537,3,1,9,0,Mixed/multiple,10,no,,7
+93510457,3,1,9,,Black Caribbean,,,,
+93510294,3,1,9,0,Mixed white and black,13,no,"yes, ever",6
+93593595,3,2,9,0,Black African,15,no,no,6
+93510093,3,1,7,1,Black African,9,no,no,7
+93510428,3,1,7,0,Black African,7,no,no,4
+93510429,3,2,7,0,Black Caribbean,7,no,no,1
+93510430,3,1,7,1,Black African,10,no,no,3
+93510177,3,2,8,0,White British,22,yes,"yes, ever",11
+93510433,3,2,7,1,White British,5,no,no,1
+93510053,3,2,7,0,White British,9,no,no,6
+93510435,3,1,7,0,Other white,3,no,no,1
+93510462,3,1,9,0,White British,13,no,no,6
+93510446,3,2,9,0,Latino,18,yes,"yes, ever",10
+93510536,3,1,9,0,Other white,9,no,no,6
+93510420,3,1,8,0,Mixed/multiple,25,yes,,14
+93593575,3,2,8,0,Black Caribbean,12,no,"yes, ever",5
+93510087,3,2,9,0,White British,17,no,no,8
+93510200,3,1,8,0,Any other,13,no,"yes, ever",8
+93510194,3,2,7,0,Mixed/multiple,17,no,"yes, ever",8
+93510260,3,2,8,0,Mixed white and black,21,yes,"yes, ever",9
+93510262,3,1,8,0,Any other,14,no,no,6
+93510162,3,2,7,0,Black Caribbean,12,no,no,5
+93510422,3,2,7,0,Latino,15,no,"yes, ever",5
+93593550,3,2,7,0,Latino,10,no,no,4
+93510425,3,1,7,0,White British,13,no,,5
+93510193,3,1,7,1,Any other,14,no,no,7
+93510423,3,2,7,0,White British,6,no,no,4
+93510441,3,2,8,0,Other black,16,no,no,11
+93510228,3,2,7,1,Other white,8,no,no,6
+93510204,3,2,8,1,Mixed white and black,21,yes,"yes, ever",14
+93510134,3,2,9,0,White British,7,no,no,2
+93593584,3,2,7,1,Any other,16,no,no,7
+93510157,3,1,9,0,White British,4,no,no,3
+93593597,3,1,7,0,Other white,13,no,,8
+93510019,3,1,8,0,White British,19,yes,no,8
+93510237,3,2,9,0,Mixed/multiple,10,no,no,3
+93510208,3,1,9,0,Black Caribbean,8,no,no,6
+93510104,3,2,7,,Mixed white and black,6,no,no,4
+93510089,3,2,7,0,Latino,8,no,no,5
+93510041,3,1,7,0,Other black,14,no,"yes, ever",7
+93593588,3,1,7,1,"Indian, Pakistani, Bangladeshi",4,no,no,3
+93510090,3,1,7,0,Black African,15,no,no,9
+93510034,3,1,7,0,White British,14,no,"yes, ever",8
+93510538,3,1,9,0,Black Caribbean,5,no,no,1
+93593500,3,2,9,0,Other white,14,no,,7
+93510481,3,2,9,0,Black Caribbean,6,no,no,4
+93510450,3,2,9,,Latino,7,no,no,3
+93593580,3,1,8,1,Black African,7,no,no,3
+93510135,3,1,9,1,Black African,4,no,no,2
+93510427,3,2,7,0,Other black,15,no,"yes, ever",12
+93510410,3,1,8,0,Mixed white and black,10,no,no,2
+93510275,3,1,7,0,Mixed/multiple,10,no,"yes, ever",6
+93510073,3,1,7,0,Other black,11,no,no,4
+93510288,3,1,8,,Black African,22,yes,"yes, ever",13
+93510510,3,1,9,,.c,18,yes,no,10
+93510133,3,2,9,0,Black Caribbean,18,yes,"yes, ever",11
+93510232,3,1,9,1,White British,9,no,no,6
+93510117,3,2,7,0,Black African,9,no,no,6
+93593572,3,1,8,0,Black African,11,no,no,6
+93510183,3,2,8,0,Black African,17,no,no,8
+93510244,3,2,9,0,Black Caribbean,21,yes,no,12
+93510085,3,2,8,0,White British,10,no,no,2
+93510452,3,2,9,0,Latino,21,yes,no,12
+93510197,3,1,8,0,Mixed white and black,4,no,no,2
+93510121,3,1,7,0,Black Caribbean,14,no,no,7
+93510102,3,1,8,0,Mixed white and black,21,yes,,10
+93510120,3,2,7,,Black Caribbean,19,yes,no,11
+93510466,3,1,9,1,Black African,9,no,no,6
+93510455,3,2,9,0,Other white,20,yes,"yes, ever",9
+93510122,3,1,7,1,Black Caribbean,11,no,no,10
+93593555,3,2,9,1,Black Caribbean,13,no,no,9
+93510213,3,1,8,0,Mixed white and black,8,no,no,6
+93510066,3,2,7,0,Black Caribbean,21,yes,no,8
+93510054,3,2,7,1,Any other,12,no,no,2
+93510238,3,1,9,0,Other white,9,no,no,6
+93510138,3,1,9,0,White British,7,no,no,4
+93593599,3,1,8,0,Black African,11,no,no,8
+93593504,3,1,9,0,Other white,15,no,no,7
+93510033,3,1,8,0,Mixed/multiple,11,no,no,5
+93510031,3,1,7,0,Other white,3,no,no,2
+93510278,3,1,8,0,Mixed/multiple,17,no,"yes, ever",12
+93510072,3,2,7,0,White British,8,no,no,3
+93510115,3,1,7,0,White British,16,no,,10
+93510408,3,2,8,0,Mixed/multiple,14,no,no,8
+93510147,3,1,9,0,"Indian, Pakistani, Bangladeshi",17,no,no,7
+93510045,3,1,7,1,Black Caribbean,15,no,"yes, ever",11
+93510400,3,1,8,1,Mixed white and black,21,yes,,13
+93593598,3,2,7,0,Black Caribbean,20,yes,,9
+93593565,3,2,7,0,Other white,6,no,no,2
+93510130,3,1,7,0,Mixed/multiple,12,no,no,5
+93510191,3,1,7,,White British,21,yes,no,14
+93510179,3,1,8,0,White British,10,no,no,4
+93510299,3,1,9,0,Black African,14,no,"yes, ever",8
+93510283,3,1,9,0,Mixed white and black,5,no,no,2
+93510071,3,2,7,0,"Indian, Pakistani, Bangladeshi",21,yes,"yes, ever",10
+93510296,3,1,9,0,Mixed/multiple,15,no,"yes, ever",10
+93510203,3,1,8,0,Mixed/multiple,20,yes,"yes, ever",12
+93593558,3,1,9,0,Other white,4,no,no,4
+93510198,3,1,8,0,White British,5,no,no,3
+93510248,3,2,9,0,Mixed/multiple,9,no,no,3
+93593501,3,2,9,0,White British,10,no,no,5
+93510236,3,2,9,0,Black African,5,no,no,1
+93510106,3,1,7,0,Black Caribbean,4,no,no,3
+93510145,3,2,9,0,Mixed/multiple,6,no,"yes, ever",1
+93510124,3,1,7,0,Black African,13,no,,4
+93593502,3,2,9,0,White British,10,no,no,6
+93593518,3,1,8,0,Other white,13,no,no,11
+93593576,3,2,8,0,Mixed/multiple,16,no,,10
+93510077,3,2,7,0,Black African,8,no,no,3
+93510282,3,1,9,0,White British,19,yes,no,11
+93510007,3,1,7,0,Black Caribbean,7,no,no,5
+93510478,3,1,9,1,Black African,18,yes,no,9
+93593548,3,1,7,0,Mixed white and black,22,yes,"yes, ever",9
+93510415,3,2,8,0,Any other,4,no,no,4
+93510483,3,2,9,,Other white,5,no,no,2
+93510164,3,1,9,0,Black Caribbean,18,yes,"yes, ever",10
+93510206,3,2,9,0,Latino,14,no,no,9
+93510140,3,1,9,0,White British,11,no,"yes, ever",7
+93510173,3,1,8,0,Black Caribbean,12,no,no,5
+93510216,3,2,8,0,Mixed white and black,18,yes,"yes, ever",9
+93510230,3,1,9,1,.c,9,no,no,5
+93510075,3,2,7,0,White British,9,no,no,2
+93510024,3,2,7,0,Mixed white and black,8,no,no,4
+93510543,3,1,9,1,White British,25,yes,"yes, ever",15
+93510284,3,1,7,0,White British,1,no,no,1
+93510094,3,2,7,0,Black Caribbean,6,no,no,4
+93510201,3,1,8,0,Black Caribbean,12,no,no,9
+93510241,3,1,7,0,Any other,16,no,,7
+93510166,3,2,8,0,Other black,14,no,"yes, ever",7
+93510006,3,2,8,0,Any other,7,no,no,5
+93510015,3,1,7,0,White British,10,no,no,6
+93510192,3,1,7,1,Other white,15,no,no,10
+93510491,3,2,9,,Black Caribbean,14,no,no,10
+93510271,3,2,9,0,Mixed/multiple,17,no,no,11
+93510086,3,2,8,0,Other white,15,no,no,4
+93593523,3,1,8,0,Black African,8,no,no,6
+93593578,3,2,8,0,Mixed white and black,15,no,no,10
+93510095,3,2,7,0,Black African,5,no,no,2
+93510022,3,1,8,1,Mixed/multiple,12,no,no,6
+93510148,3,1,9,0,Other white,8,no,no,8
+93593505,3,1,8,0,.c,7,no,no,4
+93510291,3,2,8,0,.c,10,no,no,6
+93510447,3,2,9,0,Other white,21,yes,no,10
+93510025,3,2,7,0,Black African,16,no,no,12
+93593559,3,1,7,0,White British,7,no,no,5
+93593591,3,1,9,0,Other white,8,no,no,6
+93510046,3,2,7,0,Other black,18,yes,,7
+93510463,3,1,9,0,Mixed white and black,11,no,"yes, ever",7
+93510141,3,1,9,0,White British,14,no,no,10
+93510540,3,1,9,0,"Indian, Pakistani, Bangladeshi",14,no,no,10
+93510126,3,2,7,0,White British,5,no,no,2
+93510178,3,1,8,0,White British,10,no,no,6
+93510243,3,1,7,0,Other white,22,yes,no,12
+93510059,3,2,7,0,Black Caribbean,7,no,no,7
+93510490,3,2,9,0,Mixed white and black,2,no,no,1
+93510235,3,1,9,0,Black Caribbean,9,no,no,5
+93510224,3,2,9,0,Mixed white and black,,,,
+93510080,3,1,8,,"Indian, Pakistani, Bangladeshi",10,no,no,5
+93510175,3,1,8,0,Mixed/multiple,28,yes,no,15
+93510008,3,1,7,0,Black African,16,no,no,9
+93510168,3,2,8,,Latino,4,no,,2
+93510448,3,2,9,0,Latino,15,no,"yes, ever",4
+93510223,3,2,9,0,Black Caribbean,14,no,no,5
+93593554,3,1,9,0,Other white,7,no,no,3
+93593579,3,2,8,1,Other white,15,no,"yes, ever",11
+93510139,3,1,9,0,Black Caribbean,15,no,no,7
+93510111,3,2,9,0,Black African,13,no,no,6
+93510129,3,1,7,,Black Caribbean,,,,
+93510273,3,2,9,0,Black African,8,no,no,2
+93510202,3,1,8,0,.c,12,no,no,9
+93593568,3,1,7,0,Mixed/multiple,26,yes,no,10
+93510266,3,1,9,,White British,15,no,"yes, ever",7
+93510485,3,1,9,0,Other white,8,no,,3
+93510143,3,2,9,0,White British,4,no,no,3
+93510061,3,1,7,1,White British,9,no,no,6
+93510030,3,2,7,1,Mixed white and black,14,no,no,6
+93510413,3,2,8,0,Black Caribbean,12,no,no,5
+93510416,3,2,8,1,Mixed/multiple,18,yes,"yes, ever",11
+93510170,3,2,8,0,Black Caribbean,10,no,no,7
+93510110,3,1,8,0,Mixed white and black,11,no,no,5
+93510108,3,1,7,0,Mixed white and black,5,no,no,3
+93510935,3,1,7,1,White British,19,yes,no,10
+93510105,3,2,9,,Black African,10,no,no,8
+93510188,3,2,8,,Black African,11,no,no,7
+93510541,3,1,9,0,.c,18,yes,no,8
+93510076,3,2,7,0,Other white,8,no,no,1
+93510109,3,2,7,0,White British,10,no,no,4
+93593569,3,2,8,0,Mixed white and black,8,no,no,4
+93510039,3,1,8,0,.c,13,no,"yes, ever",8
+93510027,3,1,8,0,Mixed/multiple,3,no,no,1
+93593587,3,1,7,0,Latino,20,yes,,11
+93510280,3,1,9,0,White British,3,no,no,3
+93510091,3,2,7,0,Other white,26,yes,"yes, ever",16
+93510494,3,2,9,0,White British,12,no,"yes, ever",7
+93510150,3,2,9,0,Black Caribbean,8,no,no,7
+93510295,3,1,9,0,Mixed white and black,7,no,no,4
+93510186,3,2,8,0,White British,3,no,no,0
+93510127,3,2,7,1,Any other,12,no,no,4
+93510057,3,2,7,,White British,11,no,,5
+93510151,3,2,9,0,Black African,16,no,no,7
+93510443,3,1,9,0,Black Caribbean,6,no,no,4
+93510082,3,1,9,1,Black African,20,yes,no,11
+93593534,3,1,7,0,Black Caribbean,10,no,no,4
+93510267,3,2,8,1,Black African,9,no,no,4
+93593546,3,2,8,1,Any other,1,no,no,0
+93510123,3,2,7,0,Mixed white and black,19,yes,no,13
+93593553,3,1,9,0,Latino,8,no,no,3
+93510114,3,2,7,0,Black African,5,no,no,1
+93510136,3,1,9,0,White British,7,no,no,3
+93510449,3,1,9,0,Other white,11,no,no,4
+93510464,3,1,9,0,White British,16,no,no,11
+93510158,3,2,9,1,Latino,16,no,no,8
+93510118,3,2,7,0,Black Caribbean,12,no,,7
+93510029,3,2,7,0,Any other,9,no,,4
+93510068,3,2,7,0,White British,15,no,no,5
+93510436,3,1,8,0,Other white,12,no,"yes, ever",6
+93510065,3,1,7,0,Mixed white and black,8,no,,8
+93510159,3,1,9,0,White British,10,no,"yes, ever",5
+93510058,3,1,7,0,White British,10,no,no,5
+93510180,3,2,8,0,Any other,10,no,no,7
+93510431,3,2,7,,Latino,6,no,no,2
+93510161,3,1,7,,Mixed/multiple,19,yes,no,7
+93510156,3,1,9,0,White British,12,no,no,7
+93510051,3,2,7,1,Any other,22,yes,,13
+93510209,3,1,8,0,White British,9,no,no,5
+93510287,3,1,8,0,Mixed white and black,5,no,no,4
+93510163,3,1,8,0,Other white,4,no,no,3
+93510042,3,1,7,0,Other white,19,yes,no,12
+93510040,3,1,7,,Other white,10,no,no,5
+93510038,3,2,7,0,Black African,12,no,no,6
+93510445,3,2,9,0,Other white,14,no,no,3
+93510064,3,1,7,0,White British,17,no,no,9
+93593530,3,2,7,0,Other white,22,yes,"yes, ever",9
+93510187,3,2,8,0,Black African,17,no,no,10
+93510407,3,1,9,0,Other white,4,no,no,4
+93510439,3,1,8,0,White British,13,no,no,3
+93510062,3,1,7,1,Black African,10,no,"yes, ever",7
+93510411,3,1,9,0,Black Caribbean,13,no,no,12
+93510144,3,1,9,0,Mixed white and black,9,no,no,6
+93510079,3,1,7,0,Mixed/multiple,9,no,no,5
+93510184,3,1,8,0,White British,17,no,,6
+93510096,3,2,7,0,White British,9,no,,7
+93510227,3,1,9,,Black Caribbean,10,no,no,6
+93510217,3,1,8,1,Black Caribbean,4,no,no,2
+93510146,3,2,9,0,Mixed/multiple,20,yes,no,14
+93510153,3,2,9,0,Other white,6,no,no,0
+93510226,3,2,9,1,Black Caribbean,12,no,no,7
+93593571,3,2,8,0,Other black,5,no,no,2
+93593538,3,2,7,0,Mixed/multiple,14,no,no,7
+93593570,3,1,8,0,Black African,4,no,no,3
+93593585,3,1,7,1,Black African,,,,
+93510297,3,2,7,1,Mixed white and black,6,no,no,4
+93593592,3,1,9,0,Black African,12,no,no,8
+93510261,3,1,8,0,White British,6,no,"yes, ever",3
+93510269,3,2,8,0,Black Caribbean,27,yes,"yes, ever",12
+93510245,3,1,7,0,Mixed white and black,19,yes,no,14
+93510406,3,1,8,0,White British,3,no,no,2
+93510256,3,1,8,0,Latino,15,no,no,10
+93510539,3,1,9,0,Black Caribbean,,,no,
+93510026,3,2,7,0,Black African,16,no,"yes, ever",7
+93593583,3,2,9,0,Other white,7,no,no,4
+93510154,3,2,9,0,Other white,18,yes,"yes, ever",11
+93510036,3,2,7,0,White British,3,no,no,1
+93593510,3,1,9,0,.c,14,no,no,10
+93510092,3,1,7,0,Black Caribbean,7,no,no,6
+93510207,3,1,9,0,Black Caribbean,12,no,no,11
+93510290,3,1,8,1,Any other,19,yes,,10
+93510285,3,2,9,1,Black African,11,no,no,1
+93510074,3,1,7,0,Mixed/multiple,10,no,no,4
+93510023,3,2,7,0,Mixed white and black,6,no,"yes, ever",1
+93510486,3,2,9,1,Any other,25,yes,no,12
+93510021,3,1,9,0,Black African,11,no,no,9
+93510047,3,2,7,,Any other,3,no,no,0
+93510165,3,1,8,0,Black Caribbean,7,no,,5
+93510017,3,1,8,0,Black Caribbean,0,no,no,0
+93510492,3,2,9,1,Mixed/multiple,10,no,no,5
+93510014,3,2,7,0,Other white,4,no,no,2
+93510013,3,2,8,1,Black Caribbean,19,yes,no,12
+93510028,3,2,8,0,Any other,8,no,no,3
+93593503,3,2,9,,White British,13,no,"yes, ever",6
+93510249,3,1,9,0,Black Caribbean,9,no,no,8
+93593561,3,1,8,0,Black African,8,no,no,7
+93510035,3,2,7,1,Black African,17,no,no,8
+93593517,3,1,8,0,Any other,6,no,no,3
+93510004,3,2,8,0,White British,2,no,no,1
+93510225,3,1,7,0,White British,16,no,no,11
+93593540,3,1,7,1,Black Caribbean,13,no,,8
+93510160,3,1,9,0,White British,16,no,no,12
+93510274,3,1,7,1,White British,6,no,no,5
+93510037,3,1,7,0,Black Caribbean,9,no,"yes, ever",6
+10510174,5,2,8,0,Other white,19,yes,"yes, ever",8
+10593593,5,2,9,1,Black Caribbean,7,no,no,3
+10510137,5,2,7,0,Black African,7,no,no,4
+10510252,5,1,9,0,Black African,17,no,no,10
+10510175,5,2,8,0,Black Caribbean,12,no,no,8
+10593591,5,1,9,0,Black African,11,no,no,9
+10510012,5,1,7,0,Black African,4,no,no,2
+10593509,5,2,9,1,Mixed white and black,11,no,no,10
+10510196,5,1,9,1,Black African,5,no,no,5
+10510002,5,1,8,1,Black Caribbean,4,no,no,4
+10510186,5,1,7,0,Black African,13,no,no,10
+10510068,5,2,8,0,Any other,13,no,no,5
+10510181,5,1,8,,Mixed/multiple,9,no,no,8
+10510277,5,1,7,0,Black African,8,no,no,1
+10510179,5,2,8,0,Any other,7,no,,0
+10510067,5,1,8,0,Latino,18,yes,no,9
+10593535,5,1,7,0,Black African,9,no,"yes, ever",9
+10593500,5,2,9,0,Mixed/multiple,11,no,no,6
+10510144,5,1,7,0,Black African,2,no,no,0
+10510146,5,1,7,0,Black Caribbean,11,no,"yes, ever",6
+10510248,5,2,9,0,Black Caribbean,18,yes,,12
+10510122,5,2,8,0,Black African,9,no,no,4
+10510164,5,2,9,0,Other white,9,no,no,8
+10593595,5,2,9,0,Latino,6,no,no,2
+10510193,5,1,7,0,Black Caribbean,14,no,no,11
+10510247,5,2,9,1,Any other,12,no,,5
+10510145,5,1,7,0,Other white,11,no,,9
+10510189,5,1,7,0,Any other,,,no,0
+10510080,5,1,8,0,Black African,3,no,no,2
+10510020,5,2,8,1,Black African,3,no,no,0
+10593575,5,1,9,0,Mixed white and black,14,no,no,8
+10510275,5,2,7,1,Mixed/multiple,2,no,no,0
+10510150,5,1,7,0,Black African,10,no,no,5
+10510183,5,1,8,1,Other white,22,yes,no,11
+10510044,5,1,7,0,Latino,4,no,no,3
+10510400,5,1,9,0,Black Caribbean,12,no,no,8
+10593574,5,1,9,0,Any other,0,no,no,0
+10593507,5,2,9,0,Other white,18,yes,,8
+10593594,5,2,9,0,"Indian, Pakistani, Bangladeshi",16,no,,8
+10593573,5,2,9,1,Black African,8,no,no,2
+10510158,5,2,9,0,White British,22,yes,,8
+10510191,5,2,7,1,Mixed/multiple,12,no,no,8
+10510192,5,1,7,,Black African,2,no,no,0
+10510070,5,2,8,0,Black Caribbean,12,no,,7
+10510297,5,1,9,0,Any other,4,no,no,2
+10593524,5,2,9,1,Any other,13,no,no,7
+10510935,5,2,8,0,Other white,18,yes,no,11
+10510269,5,2,7,0,Any other,12,no,,6
+10510270,5,1,7,0,White British,14,no,no,5
+10510207,5,1,9,0,Black Caribbean,11,no,no,9
+10510205,5,2,7,1,Black African,1,no,no,1
+10510236,5,1,9,0,Black African,,,,
+10510206,5,1,7,0,Black African,16,no,no,9
+10593571,5,2,9,0,Black African,10,no,no,6
+10510281,5,2,7,0,Other white,21,yes,"yes, ever",9
+10593527,5,2,7,,Black African,3,no,no,0
+10593542,5,2,7,1,Black African,17,no,,10
+10510230,5,2,9,0,Black African,10,no,"yes, ever",4
+10510231,5,1,9,0,White British,23,yes,"yes, ever",13
+10593592,5,1,9,,Black African,3,no,no,3
+10510025,5,1,8,0,Black Caribbean,9,no,no,5
+10510243,5,1,9,0,White British,23,yes,no,13
+10510097,5,1,9,0,Other white,19,yes,"yes, ever",12
+10593533,5,1,7,1,Black Caribbean,17,no,"yes, ever",14
+10510131,5,1,9,0,Black African,9,no,no,3
+10510073,5,2,8,1,Black African,,,no,6
+10510169,5,2,8,0,Black Caribbean,6,no,no,4
+10510241,5,1,9,0,Other black,9,no,no,6
+10593547,5,2,7,0,Black Caribbean,20,yes,,11
+10593517,5,1,9,0,Black African,9,no,no,8
+10510063,5,2,9,1,Any other,6,no,no,2
+10510007,5,1,8,1,Other white,13,no,,8
+10593529,5,2,7,0,Latino,26,yes,"yes, ever",16
+10593543,5,1,7,0,Black African,9,no,no,5
+10510050,5,1,7,0,Other white,4,no,no,2
+10510121,5,2,8,0,Black Caribbean,15,no,no,11
+10593541,5,2,7,0,Black Caribbean,23,yes,no,12
+10593567,5,2,9,0,Black African,10,no,no,9
+10510265,5,2,7,1,Other white,10,no,no,5
+10510255,5,1,9,0,Latino,25,yes,,18
+10510117,5,2,8,1,Black African,7,no,no,1
+10593538,5,1,7,0,White British,11,no,no,6
+10510167,5,1,8,0,Black African,17,no,,10
+10510077,5,2,8,0,Black African,4,no,no,4
+10510180,5,2,8,0,White British,14,no,no,4
+10593557,5,1,9,1,Black African,9,no,no,7
+10510173,5,1,8,1,White British,19,yes,"yes, ever",7
+10510100,5,1,8,0,Black African,18,yes,no,10
+10510138,5,1,7,0,Black African,10,no,no,5
+10510299,5,1,9,1,Mixed white and black,17,no,no,8
+10593537,5,1,7,1,Any other,3,no,no,2
+10510112,5,1,8,0,Other white,14,no,,6
+10510027,5,2,8,0,Latino,11,no,no,6
+10593530,5,1,7,0,Black African,4,no,,1
+10510935,5,2,8,0,Black African,20,yes,"yes, ever",11
+10510172,5,2,8,0,Black African,,,no,
+10510201,5,1,7,1,Black African,12,no,no,4
+10510208,5,1,8,1,Any other,7,no,no,6
+10510116,5,2,8,0,"Indian, Pakistani, Bangladeshi",16,no,no,3
+10510161,5,2,8,0,Latino,12,no,no,5
+10510286,5,2,9,0,Black African,12,no,no,6
+10593522,5,2,9,1,White British,3,no,no,3
+10593520,5,2,7,0,Other white,19,yes,"yes, ever",10
+10510298,5,1,9,1,Black Caribbean,7,no,no,6
+10593545,5,1,9,0,Other white,1,no,no,0
+10510087,5,1,8,1,Any other,16,no,no,11
+10510168,5,2,8,0,Any other,13,no,,7
+10510237,5,2,9,0,White British,11,no,no,4
+10510170,5,1,8,1,Black Caribbean,4,no,no,4
+10510233,5,2,9,0,Black African,2,no,no,0
+10510046,5,1,7,0,White British,10,no,no,7
+10510266,5,2,7,1,Black African,22,yes,,9
+10510151,5,1,7,0,Mixed/multiple,6,no,no,2
+10510033,5,1,7,0,Any other,12,no,no,5
+10510005,5,1,8,,Black African,3,no,no,2
+10510254,5,1,9,0,Black African,16,no,no,9
+10510284,5,1,9,0,Black African,23,yes,no,11
+10510041,5,2,7,0,Other white,12,no,"yes, ever",3
+10510130,5,2,7,0,Black African,17,no,,4
+10510088,5,1,8,,Black African,3,no,no,3
+10510127,5,2,9,0,Mixed white and black,9,no,"yes, ever",4
+10510120,5,1,8,0,White British,8,no,no,6
+10593505,5,2,9,1,Black African,8,no,no,4
+10510264,5,1,9,0,Black African,19,yes,no,9
+10510083,5,1,8,0,Any other,22,yes,no,11
+10593548,5,2,7,1,Other white,7,no,no,3
+10510124,5,2,9,0,Mixed/multiple,9,no,no,4
+10510008,5,2,8,0,Any other,6,no,no,1
+10510006,5,1,8,1,Mixed/multiple,8,no,,7
+10510184,5,2,7,1,Black Caribbean,16,no,,12
+10510209,5,1,8,1,Mixed/multiple,17,no,"yes, ever",13
+10510143,5,1,7,1,Black African,5,no,no,1
+10510165,5,1,8,0,Any other,15,no,,9
+10510102,5,2,8,0,Any other,8,no,no,5
+10510152,5,1,7,1,Black Caribbean,21,yes,"yes, ever",11
+10510204,5,1,7,,Black Caribbean,8,no,,7
+10510086,5,1,8,0,Latino,11,no,,6
+10510084,5,1,9,0,Black Caribbean,17,no,no,10
+10510045,5,1,7,0,Black Caribbean,14,no,no,5
+10510082,5,1,8,0,Mixed white and black,8,no,,3
+10593539,5,2,7,0,Black Caribbean,8,no,"yes, ever",4
+10510163,5,1,8,,Black African,16,no,no,7
+10510078,5,2,8,0,White British,6,no,no,4
+10510256,5,1,9,0,Other white,8,no,no,4
+10510076,5,2,8,0,Black African,9,no,no,7
+10593562,5,2,9,1,Black African,6,no,no,1
+10593564,5,2,9,0,Any other,25,yes,,16
+10510071,5,1,8,1,Mixed white and black,10,no,no,6
+10510283,5,1,7,0,Other white,22,yes,no,14
+10510023,5,2,9,1,Black African,10,no,no,6
+10510239,5,2,9,0,Black African,11,no,no,1
+10510069,5,1,8,0,Black African,14,no,no,9
+10510141,5,2,7,0,Black African,6,no,no,2
+10510268,5,1,7,0,Mixed white and black,13,no,no,9
+10510140,5,2,7,0,Black African,9,no,no,5
+10510096,5,2,8,0,Black African,1,no,no,0
+10510188,5,2,7,0,Black African,11,no,no,4
+10593511,5,1,9,0,Mixed/multiple,15,no,no,10
+10593596,5,2,9,0,Black Caribbean,5,no,no,0
+10510098,5,2,8,0,Black African,9,no,no,6
+10510185,5,2,7,0,Black African,2,no,no,0
+10593598,5,1,9,1,Any other,8,no,no,6
+10593570,5,1,9,0,"Indian, Pakistani, Bangladeshi",9,no,no,4
+10510253,5,1,9,0,Black Caribbean,24,yes,,12
+10593555,5,2,9,0,Any other,19,yes,no,9
+10593597,5,1,9,0,White British,11,no,,7
+10593568,5,2,9,0,Black African,10,no,"yes, ever",6
+10510011,5,1,8,0,Latino,19,yes,no,12
+10510178,5,2,8,1,Black African,4,no,no,0
+10593540,5,1,7,0,Latino,16,no,no,8
+10510197,5,1,7,1,Black African,7,no,no,1
+10510238,5,2,9,0,Black African,7,no,no,4
+10510139,5,2,7,1,Other black,19,yes,"yes, ever",12
+10510123,5,1,8,0,Mixed white and black,3,no,no,3
+10593521,5,1,7,1,Black African,13,no,,9
+10593559,5,2,9,0,Other white,5,no,no,3
+10510142,5,2,7,0,Black Caribbean,9,no,no,7
+10593599,5,2,9,0,Black African,8,no,no,0
+10510273,5,1,7,1,Any other,15,no,no,6
+10510202,5,2,7,0,Black African,16,no,,9
+10510154,5,2,7,0,Any other,9,no,no,3
+10510035,5,2,7,0,Black African,27,yes,no,11
+10510029,5,1,8,0,Latino,17,no,no,8
+10510133,5,2,7,0,Black Caribbean,16,no,,9
+10510261,5,1,9,0,Black African,12,no,,7
+10510104,5,1,8,0,Mixed/multiple,8,no,no,3
+10593526,5,1,7,0,Black African,6,no,,1
+10510182,5,1,9,0,Black African,1,no,no,1
+10510267,5,2,7,1,Black African,3,no,no,2
+10510110,5,1,8,0,Black African,8,no,no,6
+10510114,5,1,8,1,Black African,7,no,no,5
+10510162,5,1,8,0,Black African,9,no,no,5
+10510132,5,2,7,0,Latino,10,no,"yes, ever",6
+10510171,5,2,8,0,"Indian, Pakistani, Bangladeshi",12,no,no,4
+10510015,5,2,8,0,White British,16,no,no,7
+10593534,5,2,7,0,Black African,7,no,no,3
+10510099,5,1,8,0,Black Caribbean,18,yes,no,12
+10510093,5,2,8,0,Other black,21,yes,"yes, ever",7
+10510064,5,2,9,0,Black African,5,no,no,1
+10510240,5,1,9,0,White British,10,no,no,6
+10510111,5,1,8,0,Black African,7,no,no,5
+10510106,5,2,8,1,Black African,3,no,no,0
+10510030,5,2,8,0,Mixed white and black,5,no,no,3
+10510018,5,1,8,0,Black African,3,no,no,3
+10510134,5,2,9,0,Black African,9,no,no,3
+10510125,5,1,8,0,Black African,4,no,,3
+10510229,5,1,9,0,Latino,7,no,no,4
+10510090,5,2,8,1,Black African,12,no,no,8
+10510091,5,2,8,1,Any other,23,yes,no,10
+10510060,5,2,9,0,Black African,5,no,no,1
+10510276,5,1,7,,Black African,12,no,,9
+10510075,5,2,8,0,Black Caribbean,4,no,no,1
+10510036,5,1,7,0,Black African,27,yes,no,10
+10510019,5,1,8,0,Mixed white and black,7,no,no,1
+10510166,5,1,8,0,Mixed/multiple,14,no,"yes, ever",6
+10510009,5,1,8,1,Black African,11,no,no,8
+10593563,5,1,9,1,Mixed white and black,4,no,no,0
+10510272,5,2,7,0,Black African,8,no,no,3
+10510155,5,2,9,0,Black African,13,no,no,8
+10510022,5,1,9,0,Black African,9,no,no,9
+10510234,5,1,9,1,Black Caribbean,12,no,no,8
+10510274,5,1,9,,Black African,14,no,no,10
+10593525,5,2,9,0,Mixed/multiple,25,yes,no,13
+10510176,5,2,8,1,Black African,7,no,no,4
+10593508,5,1,9,0,Mixed white and black,12,no,no,10
+10510285,5,1,9,0,Black African,4,no,no,3
+10510177,5,2,8,0,Black African,7,no,no,5
+10593546,5,1,7,0,Black Caribbean,9,no,no,6
+10593502,5,2,9,0,Black Caribbean,21,yes,no,10
+10510160,5,1,8,0,Other white,6,no,no,3
+10510228,5,1,9,0,Black African,7,no,no,5
+10510203,5,1,7,1,Black African,17,no,,7
+10510153,5,2,7,,Other black,17,no,,14
+10510128,5,2,7,1,Black African,4,no,no,2
+10593512,5,1,9,0,Black African,8,no,no,7
+10510156,5,2,8,0,Mixed white and black,,,no,6
+10593569,5,1,9,0,Black Caribbean,7,no,no,4
+10510101,5,1,9,0,Black Caribbean,,,"yes, ever",
+10510244,5,1,9,1,Any other,6,no,no,0
+10593503,5,2,9,0,Other white,11,no,"yes, ever",4
+10510109,5,1,8,0,Black African,11,no,,8
+10510246,5,2,9,,Black Caribbean,8,no,no,6
+10510149,5,2,7,1,Any other,23,yes,no,14
+10510003,5,2,8,0,Black Caribbean,5,no,no,2
+10510081,5,1,8,0,"Indian, Pakistani, Bangladeshi",6,no,no,5
+10510010,5,1,8,0,Black African,5,no,no,2
+10510047,5,2,7,0,Other white,30,yes,"yes, ever",14
+10510280,5,2,7,0,Black African,4,no,no,0
+10593531,5,1,7,1,Black African,11,no,no,5
+10510282,5,1,7,0,White British,1,no,no,0
+10510147,5,1,7,0,Any other,17,no,no,12
+10510026,5,2,8,0,Black African,10,no,no,6
+10593513,5,2,9,1,Mixed white and black,11,no,no,7
+10510049,5,2,7,0,Mixed white and black,7,no,no,2
+10510105,5,2,8,0,Any other,8,no,no,3
+10510135,5,1,7,0,White British,10,no,no,3
+10510271,5,2,7,0,Black African,15,no,no,8
+10510157,5,1,8,1,Mixed white and black,9,no,no,8
+10510108,5,2,8,0,"Indian, Pakistani, Bangladeshi",12,no,no,7
+10510095,5,1,8,1,Black African,18,yes,"yes, ever",10
+10510072,5,2,8,0,Mixed white and black,14,no,no,10
+10510129,5,1,7,0,Mixed white and black,16,no,no,11
+10510001,5,2,7,0,Black African,13,no,,2
+10510113,5,1,8,0,Mixed white and black,9,no,no,5
+10510016,5,2,8,1,Black African,2,no,no,1
+10593536,5,1,7,0,Mixed/multiple,,,"yes, ever",8
+10510004,5,2,8,1,Any other,9,no,no,3
+10510242,5,1,9,1,Black African,5,no,no,2
+10593565,5,2,9,0,Latino,8,no,no,6
+10593506,5,1,9,0,Black African,5,no,no,4
+10510013,5,1,7,0,Black Caribbean,15,no,"yes, ever",10
+10510136,5,2,7,0,White British,18,yes,no,9
+10510017,5,1,8,0,Other black,8,no,"yes, ever",6
+10510066,5,2,8,,Other black,20,yes,no,12
+10510198,5,1,9,0,Black Caribbean,7,no,no,3
+10510092,5,2,8,0,Black African,9,no,no,6
+10510024,5,2,8,1,"Indian, Pakistani, Bangladeshi",1,no,no,0
+10593544,5,2,7,1,Other white,22,yes,,9
+10510194,5,2,7,1,Black Caribbean,4,no,no,3
+10510028,5,1,9,0,White British,8,no,no,5
+10593504,5,1,9,0,Black Caribbean,17,no,no,12
+10593566,5,2,9,1,Any other,10,no,no,6
+10510032,5,1,7,1,Mixed white and black,10,no,no,8
+10510148,5,2,7,0,Black African,26,yes,,16
+10510037,5,1,7,0,Mixed/multiple,2,no,no,2
+10510038,5,2,7,1,Other white,14,no,no,5
+10593501,5,1,9,0,Black African,9,no,no,8
+10593572,5,1,9,0,White British,11,no,no,3
+10510043,5,2,7,0,Mixed white and black,26,yes,"yes, ever",16
+10510042,5,1,7,0,Mixed white and black,4,no,no,3
+10510094,5,1,8,0,Black Caribbean,15,no,,8
+10510190,5,1,7,0,"Indian, Pakistani, Bangladeshi",12,no,no,8
+10510048,5,1,7,0,Mixed/multiple,2,no,no,1
+10510061,5,2,9,0,Latino,12,no,no,7
+10510118,5,2,8,0,Black Caribbean,9,no,no,3
+10510058,5,1,9,0,Black Caribbean,10,no,no,9
+10510279,5,1,7,0,Black African,14,no,"yes, ever",10
+10510062,5,1,9,0,Black African,11,no,no,9
+10593561,5,1,9,0,Black Caribbean,10,no,no,8
+10510079,5,1,8,0,Any other,10,no,no,10
+10510187,5,1,7,0,Black African,4,no,no,4
+93510181,7,2,8,0,Black African,8,no,no,5
+93510032,7,2,7,,Latino,6,no,,1
+93510432,7,2,8,0,White British,6,no,no,5
+93510252,7,2,7,,Mixed white and black,13,no,,6
+93510502,7,2,9,1,Black African,16,no,"yes, ever",9
+93593585,7,2,8,0,Black Caribbean,9,no,no,4
+93510129,7,1,9,0,Black Caribbean,18,yes,no,8
+93510165,7,1,8,0,Black Caribbean,6,no,,1
+93510125,7,1,7,0,.c,19,yes,no,10
+93510478,7,2,9,0,Any other,8,no,no,6
+93510485,7,2,9,1,Black Caribbean,17,no,,5
+93593584,7,2,8,0,Other white,9,no,no,1
+93510019,7,2,7,0,Other white,13,no,no,5
+93510191,7,1,8,0,Black African,12,no,"yes, ever",6
+93510193,7,2,7,0,White British,9,no,no,5
+93510194,7,2,7,,Mixed white and black,8,no,no,5
+93510419,7,2,8,0,Other black,16,no,no,12
+93510082,7,2,7,0,Mixed white and black,6,no,no,5
+93510196,7,2,7,0,Mixed white and black,11,no,no,1
+93510436,7,2,8,,Mixed white and black,5,no,no,2
+93510229,7,2,8,0,Black Caribbean,15,no,no,11
+93510134,7,1,9,,Black African,,,,
+93510195,7,2,7,,Other white,14,no,no,4
+93510198,7,1,7,1,Mixed white and black,10,no,"yes, ever",8
+93510226,7,1,7,0,Black African,16,no,no,13
+93510225,7,1,7,0,Black African,12,no,no,8
+93510199,7,1,7,0,Black Caribbean,18,yes,no,9
+93510224,7,2,7,0,White British,11,no,,5
+93510472,7,1,9,0,Other white,12,no,no,4
+93510486,7,1,9,0,"Indian, Pakistani, Bangladeshi",15,no,"yes, ever",8
+93510091,7,2,7,0,Any other,5,no,no,1
+93510223,7,2,7,0,Black Caribbean,18,yes,no,10
+93510230,7,2,8,1,Black Caribbean,6,no,,3
+93593571,7,1,8,0,Other white,15,no,,9
+93510085,7,1,7,0,Black Caribbean,19,yes,no,10
+93510059,7,2,7,0,White British,15,no,no,5
+93510034,7,2,7,0,Black African,18,yes,,10
+93510201,7,1,7,0,Mixed white and black,12,no,"yes, ever",10
+93510440,7,1,8,0,White British,12,no,no,4
+93510409,7,2,8,0,Black Caribbean,9,no,no,3
+93510410,7,2,8,0,Mixed/multiple,20,yes,,11
+93510203,7,2,7,0,Black Caribbean,17,no,no,13
+93510192,7,1,8,0,White British,13,no,no,7
+93593573,7,1,8,1,White British,14,no,"yes, ever",8
+93510204,7,1,7,0,Other white,4,no,no,1
+93510935,7,1,7,0,Black Caribbean,17,no,no,15
+93510256,7,1,7,0,Black Caribbean,11,no,no,5
+93593525,7,2,8,0,Black Caribbean,8,no,no,3
+93510259,7,2,7,0,Mixed white and black,17,no,no,12
+93510211,7,2,7,,White British,16,no,no,8
+93510114,7,2,7,1,Black African,7,no,no,5
+93510263,7,2,7,0,Black Caribbean,10,no,no,7
+93510217,7,1,7,1,Black Caribbean,8,no,no,4
+93510292,7,2,9,1,Black Caribbean,15,no,no,11
+93510269,7,2,9,0,Black Caribbean,14,no,no,9
+93593566,7,2,8,,Black African,18,yes,"yes, ever",8
+93510017,7,1,7,0,Black African,8,no,,8
+93510145,7,2,9,,Other white,7,no,no,0
+93510064,7,1,7,0,Black African,12,no,no,5
+93510420,7,2,8,0,Mixed white and black,10,no,no,7
+93510287,7,1,9,0,White British,12,no,"yes, ever",8
+93510295,7,2,9,0,Mixed/multiple,21,yes,no,10
+93510233,7,2,9,0,Other white,10,no,,7
+93510477,7,2,9,0,Other white,16,no,no,5
+93510264,7,2,7,0,Mixed white and black,24,yes,"yes, ever",16
+93510173,7,1,8,0,Any other,19,yes,no,14
+93510020,7,1,7,0,Any other,14,no,no,5
+93510137,7,2,9,0,Other white,25,yes,,10
+93593524,7,2,8,1,Black Caribbean,18,yes,no,11
+93510538,7,2,9,0,Mixed white and black,7,no,no,5
+93510255,7,2,7,0,"Indian, Pakistani, Bangladeshi",,,,1
+93510001,7,1,7,0,White British,16,no,no,9
+93510541,7,2,9,0,Black Caribbean,9,no,no,7
+93510246,7,1,9,0,Other black,4,no,no,2
+93593539,7,2,8,0,Other white,4,no,no,2
+93510016,7,1,7,0,Black African,12,no,,7
+93510037,7,2,7,0,Black Caribbean,18,yes,"yes, ever",16
+93593535,7,1,8,0,Black African,10,no,no,3
+93593544,7,1,8,0,Black Caribbean,2,no,no,1
+93510430,7,1,8,0,"Indian, Pakistani, Bangladeshi",15,no,no,6
+93510065,7,2,7,0,"Indian, Pakistani, Bangladeshi",6,no,no,4
+93510265,7,2,7,0,Black Caribbean,21,yes,,14
+93510011,7,2,7,0,Mixed white and black,15,no,no,8
+93593553,7,2,8,0,Other white,7,no,no,3
+93510188,7,2,8,0,Mixed/multiple,21,yes,no,11
+93510475,7,1,9,0,Black African,4,no,no,2
+93593567,7,2,8,0,Mixed white and black,10,no,no,9
+93510100,7,1,7,0,Other white,2,no,no,0
+93510534,7,2,9,0,Black African,,,no,7
+93593570,7,2,8,0,Other white,18,yes,"yes, ever",5
+93593572,7,1,8,0,Other white,13,no,no,6
+93510286,7,1,8,0,Black African,13,no,no,6
+93510025,7,1,7,0,Black Caribbean,12,no,no,7
+93510228,7,2,8,0,Black Caribbean,10,no,"yes, ever",5
+93593586,7,2,8,0,White British,10,no,no,1
+93510260,7,2,7,0,Other white,14,no,no,8
+93593589,7,2,8,0,Black Caribbean,30,yes,,11
+93510403,7,2,8,0,White British,20,yes,no,14
+93510405,7,2,8,,Mixed white and black,19,yes,no,7
+93510242,7,2,9,0,Black African,29,yes,no,13
+93510121,7,2,7,,White British,8,no,no,0
+93510155,7,1,8,0,Any other,14,no,no,8
+93510148,7,2,8,0,Black Caribbean,13,no,no,9
+93510421,7,2,8,0,Black African,12,no,no,3
+93593543,7,2,8,0,Other white,5,no,no,0
+93510041,7,2,7,0,White British,11,no,no,5
+93510443,7,2,8,0,Mixed/multiple,6,no,no,4
+93510087,7,1,7,1,Black Caribbean,6,no,no,5
+93510429,7,1,8,0,Black African,8,no,no,6
+93510293,7,2,9,0,Black Caribbean,12,no,no,10
+93510438,7,2,8,0,Black African,14,no,no,6
+93593534,7,1,8,1,Other black,8,no,no,6
+93510151,7,1,8,0,Black Caribbean,11,no,,7
+93510422,7,2,8,0,Mixed white and black,23,yes,"yes, ever",15
+93510434,7,2,8,1,Black Caribbean,26,yes,,20
+93510175,7,2,8,0,Black Caribbean,7,no,no,3
+93510437,7,2,8,0,Mixed white and black,11,no,no,8
+93510050,7,2,7,0,Other white,13,no,no,8
+93510183,7,2,8,0,Black Caribbean,12,no,no,6
+93510262,7,1,7,0,Black Caribbean,13,no,no,10
+93510046,7,2,7,0,White British,4,no,no,1
+93593587,7,2,8,0,"Indian, Pakistani, Bangladeshi",20,yes,no,9
+93510447,7,2,8,0,Black African,,,,
+93510449,7,1,8,,Latino,19,yes,no,9
+93593598,7,1,8,0,Mixed/multiple,13,no,no,7
+93510084,7,2,7,0,Other white,14,no,no,6
+93510097,7,1,7,0,Black African,30,yes,,12
+93510539,7,1,9,0,Black African,11,no,no,5
+93510270,7,2,9,0,Black Caribbean,21,yes,no,10
+93510444,7,2,8,0,Black Caribbean,12,no,no,6
+93510459,7,2,9,0,White British,4,no,no,2
+93510272,7,2,9,0,Mixed white and black,22,yes,"yes, ever",20
+93510110,7,1,7,0,White British,8,no,no,5
+93593540,7,2,8,0,Black Caribbean,11,no,no,8
+93510519,7,1,9,0,Black African,9,no,no,5
+93510487,7,1,9,,White British,5,no,no,1
+93510131,7,1,9,0,Mixed/multiple,15,no,"yes, ever",9
+93510279,7,1,9,0,Other white,9,no,no,6
+93510214,7,2,7,0,Other white,9,no,no,5
+93510123,7,1,7,0,Any other,1,no,no,1
+93593591,7,2,8,1,Latino,14,no,no,6
+93510004,7,1,7,0,Black African,13,no,no,5
+93510296,7,2,9,0,"Indian, Pakistani, Bangladeshi",14,no,no,3
+93510044,7,1,7,0,Mixed white and black,21,yes,no,17
+93510081,7,1,7,0,Any other,0,no,no,0
+93510205,7,1,7,0,Mixed white and black,17,no,"yes, ever",7
+93510273,7,1,9,0,Black African,,,no,4
+93510106,7,2,7,0,Black Caribbean,7,no,,4
+93510404,7,2,8,1,Black Caribbean,11,no,no,4
+93510540,7,1,9,1,Any other,9,no,no,6
+93510277,7,1,9,0,Black Caribbean,15,no,,13
+93510179,7,1,8,0,Black Caribbean,10,no,no,7
+93510523,7,2,9,1,Black Caribbean,12,no,no,9
+93510128,7,1,9,0,Black Caribbean,6,no,no,5
+93510147,7,1,8,0,Black Caribbean,18,yes,no,7
+93510503,7,1,9,0,Other white,24,yes,no,12
+93510445,7,2,8,1,Mixed/multiple,19,yes,"yes, ever",11
+93510154,7,1,8,0,Black African,6,no,no,4
+93593503,7,1,9,1,White British,17,no,no,10
+93593507,7,2,9,1,White British,4,no,no,2
+93510542,7,1,9,0,White British,17,no,no,13
+93510261,7,2,7,,Other white,6,no,no,2
+93510043,7,1,7,0,Other black,14,no,no,9
+93510448,7,2,8,0,Any other,15,no,no,9
+93510227,7,1,7,1,Black Caribbean,18,yes,no,8
+93510048,7,1,7,0,Mixed white and black,27,yes,"yes, ever",15
+93510474,7,1,9,0,Mixed white and black,16,no,no,8
+93510543,7,2,9,0,Black Caribbean,21,yes,no,8
+93593508,7,2,9,0,Other white,6,no,,4
+93510476,7,1,9,0,Black Caribbean,5,no,"yes, ever",4
+93510288,7,2,9,0,Black Caribbean,22,yes,"yes, ever",7
+93593538,7,2,8,0,Black African,11,no,no,7
+93510094,7,2,7,0,Mixed white and black,13,no,no,6
+93593541,7,2,8,0,Black Caribbean,13,no,no,7
+93593528,7,1,8,0,Black Caribbean,6,no,no,6
+93510400,7,2,8,0,White British,28,yes,"yes, ever",15
+93510115,7,2,7,0,Black Caribbean,8,no,no,5
+93510281,7,2,9,0,Other white,17,no,no,4
+93510099,7,1,7,0,Other white,8,no,no,3
+93510521,7,2,9,1,Black African,15,no,"yes, ever",10
+93510245,7,2,9,0,White British,16,no,no,9
+93510488,7,1,9,0,Mixed white and black,3,no,no,1
+93593531,7,1,8,0,Black Caribbean,18,yes,no,15
+93510244,7,2,9,0,Black African,14,no,,8
+93510136,7,2,9,0,White British,26,yes,no,16
+93593568,7,1,8,0,Black Caribbean,,,"yes, ever",
+93510241,7,2,9,0,Black Caribbean,15,no,no,11
+93510285,7,1,8,0,Any other,19,yes,no,9
+93510159,7,2,8,0,Black Caribbean,13,no,no,7
+93510216,7,1,7,0,Mixed white and black,15,no,no,10
+93510511,7,2,9,0,Any other,12,no,no,3
+93510266,7,1,7,0,Other white,22,yes,no,17
+93510257,7,2,8,0,Black Caribbean,5,no,no,4
+93510235,7,1,9,0,Any other,18,yes,no,8
+93593537,7,2,8,0,Mixed white and black,17,no,,13
+93510402,7,1,8,0,Black African,4,no,no,4
+93510479,7,2,9,1,Black Caribbean,12,no,,7
+93510075,7,2,7,0,Black Caribbean,7,no,no,3
+93510074,7,1,7,0,Black Caribbean,15,no,no,9
+93510007,7,2,7,0,Other white,14,no,no,3
+93510291,7,1,9,0,Mixed/multiple,12,no,"yes, ever",5
+93510150,7,1,8,1,Black Caribbean,20,yes,no,10
+93510039,7,2,7,0,Black Caribbean,11,no,no,6
+93510221,7,2,7,0,Mixed/multiple,9,no,no,5
+93510171,7,2,8,0,White British,16,no,,1
+93593583,7,2,8,0,Other white,13,no,no,7
+93510122,7,2,7,0,White British,13,no,no,4
+93510489,7,2,9,1,Black Caribbean,9,no,no,7
+93593564,7,1,8,0,Mixed white and black,7,no,no,5
+93510057,7,1,7,0,Black Caribbean,12,no,,9
+93593552,7,2,8,0,Mixed white and black,9,no,no,6
+93510042,7,2,7,0,Black Caribbean,6,no,no,2
+93510202,7,2,7,0,Other white,2,no,no,1
+93510451,7,1,9,0,White British,24,yes,"yes, ever",8
+93510497,7,1,9,0,Other white,8,no,"yes, ever",3
+93510423,7,2,8,0,Black Caribbean,3,no,no,3
+93593565,7,2,8,0,Mixed white and black,12,no,no,5
+93510118,7,2,7,1,Black Caribbean,16,no,"yes, ever",9
+93510076,7,1,7,0,Black Caribbean,25,yes,no,13
+93510119,7,2,7,0,Mixed white and black,1,no,no,0
+93510013,7,2,7,0,White British,4,no,no,1
+93593511,7,2,9,0,Other white,6,no,no,1
+93510142,7,2,9,0,Mixed/multiple,19,yes,,9
+93593506,7,2,9,0,Black African,19,yes,,10
+93510492,7,1,9,0,White British,8,no,no,7
+93510056,7,1,7,0,White British,8,no,no,6
+93510284,7,2,8,0,Other white,12,no,"yes, ever",4
+93510138,7,2,9,0,Any other,14,no,no,7
+93510236,7,1,9,0,Mixed white and black,13,no,no,6
+93510253,7,2,7,0,White British,20,yes,no,10
+93510222,7,2,7,0,Black Caribbean,15,no,no,6
+93510003,7,2,7,0,Other white,2,no,no,1
+93510166,7,1,8,0,Any other,26,yes,"yes, ever",10
+93593548,7,1,8,1,Mixed/multiple,12,no,no,8
+93510090,7,1,7,0,.c,14,no,no,7
+93510498,7,1,9,1,Mixed white and black,16,no,no,10
+93510218,7,1,7,,Any other,11,no,no,2
+93510499,7,1,9,1,Black Caribbean,12,no,no,7
+93510078,7,2,7,0,White British,,,,
+93593547,7,1,8,0,Black African,5,no,no,3
+93510294,7,2,9,0,Black Caribbean,15,no,,10
+93510439,7,1,8,0,Black African,10,no,no,4
+93510093,7,2,7,1,Other white,6,no,no,3
+93510240,7,2,9,0,Mixed/multiple,17,no,no,6
+93510532,7,2,9,0,Other white,8,no,no,5
+93510146,7,2,9,0,Any other,15,no,no,11
+93510247,7,2,9,0,Black Caribbean,7,no,no,4
+93593527,7,2,8,1,Mixed white and black,18,yes,,13
+93510424,7,2,8,0,Black Caribbean,6,no,no,4
+93510428,7,1,8,0,Black African,16,no,no,9
+93593523,7,1,8,,Mixed/multiple,13,no,no,8
+93510062,7,2,7,0,White British,30,yes,,16
+93510126,7,1,7,1,Any other,9,no,no,6
+93510073,7,2,7,1,Black Caribbean,10,no,no,9
+93510053,7,1,7,0,Mixed white and black,8,no,no,5
+93593550,7,1,8,0,Latino,14,no,no,7
+93510215,7,1,7,,Other white,7,no,no,4
+93510271,7,2,9,0,Mixed/multiple,19,yes,,12
+93510036,7,1,7,1,Mixed/multiple,17,no,,13
+93593599,7,1,8,0,Black African,18,yes,no,14
+93510030,7,2,7,0,Other white,12,no,no,4
+93510446,7,2,8,0,White British,10,no,no,5
+93510501,7,1,9,0,Mixed/multiple,12,no,no,9
+93510055,7,2,7,,Other white,21,yes,,8
+93510450,7,2,9,0,Black Caribbean,5,no,no,2
+93510413,7,2,8,0,Mixed/multiple,6,no,no,2
+93510473,7,1,9,0,Any other,5,no,no,3
+93593532,7,1,8,1,Black Caribbean,20,yes,"yes, ever",14
+93510209,7,2,7,,White British,6,no,no,1
+93510127,7,2,9,1,Any other,16,no,,10
+93510111,7,2,7,0,White British,10,no,no,2
+93510002,7,1,7,1,White British,12,no,no,9
+93510031,7,1,7,0,Black African,10,no,no,7
+93510935,7,2,7,0,.c,19,yes,,8
+93510283,7,1,9,0,Other white,20,yes,no,12
+93510140,7,2,9,0,White British,17,no,no,4
+93510018,7,1,7,1,Other white,14,no,no,7
+93510130,7,1,9,0,Black African,13,no,no,10
+93510167,7,2,8,0,.c,16,no,,6
+93510068,7,1,7,0,Mixed white and black,17,no,no,14
+93510408,7,1,8,0,Black Caribbean,17,no,,13
+93510219,7,1,7,1,Mixed white and black,5,no,no,2
+93593546,7,1,8,0,Black African,19,yes,no,6
+93510029,7,1,7,1,.c,,,no,
+93510135,7,1,9,0,Any other,24,yes,"yes, ever",17
+93510210,7,2,7,0,Black Caribbean,14,no,no,4
+93593563,7,2,8,0,Black Caribbean,13,no,no,6
+93510139,7,2,9,0,Any other,6,no,no,3
+93593530,7,2,8,0,Black Caribbean,6,no,no,3
+93593574,7,1,8,0,White British,10,no,no,7
+93510024,7,2,7,0,Other white,7,no,no,3
+93510006,7,2,7,0,Black Caribbean,12,no,,6
+93510169,7,2,8,0,Mixed/multiple,6,no,no,2
+93510468,7,1,9,0,Other black,14,no,no,8
+93510112,7,2,7,1,White British,13,no,no,7
+93510469,7,2,9,0,Black Caribbean,12,no,,3
+93510079,7,2,7,0,White British,3,no,no,1
+93510200,7,2,7,1,Black Caribbean,16,no,no,7
+93510495,7,1,9,0,Black African,11,no,no,6
+93510047,7,2,7,1,Black Caribbean,8,no,no,3
+93510289,7,2,9,0,Black African,9,no,no,7
+93510496,7,2,9,0,Black Caribbean,17,no,no,9
+93510035,7,1,7,0,Mixed white and black,14,no,,11
+93510132,7,2,9,0,"Indian, Pakistani, Bangladeshi",9,no,no,2
+93510406,7,1,8,1,Mixed white and black,21,yes,"yes, ever",13
+93510536,7,1,9,0,Mixed white and black,11,no,no,8
+93510490,7,1,9,1,Other white,16,no,no,10
+93593561,7,2,8,0,White British,7,no,no,5
+93510038,7,1,7,0,Black Caribbean,13,no,no,8
+93593542,7,2,8,0,Black Caribbean,6,no,no,3
+93593522,7,2,9,0,Black Caribbean,9,no,no,4
+93510275,7,2,9,1,Black African,15,no,"yes, ever",9
+93510411,7,1,8,0,White British,11,no,no,8
+93593580,7,1,8,0,Black African,2,no,no,2
+93510177,7,1,8,0,Any other,16,no,"yes, ever",6
+93510522,7,2,9,0,Other black,4,no,no,3
+93510102,7,1,7,,Mixed white and black,11,no,no,6
+93510237,7,1,9,0,Mixed white and black,12,no,no,10
+93510158,7,2,8,0,Black African,,,no,2
+93510058,7,2,7,0,Black Caribbean,21,yes,"yes, ever",10
+93510012,7,2,7,1,Mixed white and black,19,yes,,13
+93593505,7,2,9,0,White British,2,no,no,1
+93593569,7,1,8,0,White British,21,yes,,11
+93510520,7,2,9,0,Other white,15,no,,8
+93510480,7,1,9,0,Black African,,,no,12
+93510178,7,1,8,0,Other white,12,no,no,7
+93510164,7,2,8,0,Black Caribbean,15,no,,10
+93510484,7,1,9,1,Black Caribbean,10,no,no,7
+93510116,7,2,7,1,Black Caribbean,7,no,"yes, ever",5
+93510208,7,2,7,1,Black African,24,yes,no,12
+93510418,7,2,8,0,Black Caribbean,14,no,no,9
+93510206,7,1,7,0,Mixed white and black,21,yes,no,13
+93510212,7,2,7,0,Other white,13,no,no,4
+93593502,7,1,9,0,Black Caribbean,12,no,no,4
+93593545,7,2,8,1,Mixed white and black,13,no,no,10
+93593588,7,2,8,0,"Indian, Pakistani, Bangladeshi",7,no,no,3
+93510104,7,1,7,0,White British,11,no,no,7
+93510278,7,1,9,0,"Indian, Pakistani, Bangladeshi",13,no,no,7
+93593515,7,1,9,1,Black Caribbean,15,no,no,10
+93510426,7,2,8,0,Black Caribbean,9,no,no,3
+93510168,7,2,8,1,White British,12,no,no,4
+93593526,7,2,8,1,Mixed white and black,9,no,no,7
+93510095,7,2,7,0,White British,15,no,no,6
+93510254,7,1,7,1,Other white,11,no,no,4
+93510187,7,2,8,0,Other black,11,no,no,7
+93510144,7,1,9,0,Latino,16,no,no,9
+93510180,7,1,8,0,Black Caribbean,9,no,no,5
+93510149,7,1,8,0,Black Caribbean,14,no,no,9
+93510435,7,2,8,1,Mixed/multiple,9,no,no,0
+93510072,7,1,7,0,Black Caribbean,8,no,no,7
+93510101,7,1,7,0,Other black,19,yes,,14
+93510431,7,1,8,0,Mixed/multiple,5,no,no,2
+93510096,7,1,7,0,Other white,2,no,no,0
+93510174,7,1,8,0,Any other,2,no,no,0
+93510491,7,2,9,0,Black Caribbean,7,no,no,6
+93510441,7,2,8,1,Mixed/multiple,13,no,,4
+93510049,7,2,7,0,Black Caribbean,15,no,no,13
+93510086,7,1,7,0,Any other,9,no,no,8
+93510080,7,2,7,0,White British,16,no,no,12
+93510133,7,1,9,0,Black African,20,yes,no,14
+93510026,7,1,7,0,Black Caribbean,15,no,,10
+93510161,7,2,8,0,Mixed white and black,8,no,no,8
+93510071,7,2,7,0,Black African,8,no,no,1
+93510276,7,1,9,0,Other white,9,no,no,7
+93510063,7,2,7,0,Black Caribbean,15,no,no,8
+93510069,7,2,7,1,Black Caribbean,,,no,
+93510109,7,2,7,0,Mixed/multiple,2,no,no,2
+93510052,7,2,7,,Black African,5,no,no,5
+93510092,7,2,7,0,Other black,11,no,no,8
+93510051,7,2,7,0,Mixed white and black,16,no,no,11
+93593559,7,2,8,0,Mixed/multiple,18,yes,,7
+93510433,7,2,8,0,Mixed/multiple,15,no,no,8
+93510182,7,2,8,1,.c,,,no,
+93510021,7,2,7,0,Other white,8,no,no,5
+93510088,7,2,7,0,White British,11,no,no,7
+93510033,7,2,7,0,Mixed white and black,12,no,no,5
+93593501,7,1,9,1,Mixed white and black,10,no,no,8
+93510280,7,1,9,0,Black Caribbean,10,no,no,4
+93510023,7,2,7,0,Black Caribbean,6,no,no,0
+93510022,7,2,7,0,Mixed/multiple,9,no,no,3
+93510518,7,2,9,0,Black African,11,no,no,7
+93510083,7,2,7,1,Mixed/multiple,17,no,,16
+93510401,7,2,8,0,Black African,17,no,no,7
+93510207,7,1,7,0,Mixed/multiple,20,yes,"yes, ever",11
+93510015,7,1,7,0,Black African,5,no,no,2
+93510070,7,2,7,0,"Indian, Pakistani, Bangladeshi",12,no,no,5
+93510500,7,1,9,0,Other white,10,no,no,9
+93510045,7,2,7,0,White British,19,yes,,6
+93510509,7,1,9,0,Mixed/multiple,14,no,no,8
+93510124,7,2,7,,.c,23,yes,no,13
+93510238,7,2,9,0,Other white,19,yes,"yes, ever",10
+93593592,7,2,8,0,Other white,17,no,"yes, ever",8
+93510239,7,2,9,0,Black African,17,no,,8
+93593549,7,1,8,,"Indian, Pakistani, Bangladeshi",13,no,no,6
+93510243,7,1,9,1,White British,7,no,no,5
+93593562,7,1,8,0,Any other,13,no,no,5
+93510258,7,1,7,0,Black Caribbean,10,no,no,5
+93510160,7,2,8,0,Black Caribbean,11,no,no,6
+93510105,7,2,7,0,White British,,,no,
+93510197,7,2,7,,Latino,21,yes,,9
+93510014,7,2,7,0,"Indian, Pakistani, Bangladeshi",7,no,no,4
+93510170,7,2,8,0,Other white,5,no,no,2
+93510234,7,1,9,0,Black African,4,no,no,3
+93510493,7,2,9,0,Black Caribbean,11,no,,2
+93510267,7,2,7,0,White British,6,no,no,1
+93510156,7,1,8,1,Mixed white and black,9,no,no,5
+93510483,7,2,9,0,Black Caribbean,19,yes,,14
+93510143,7,2,9,0,White British,11,no,no,3
+93510537,7,1,9,0,Black Caribbean,12,no,no,7
+93510077,7,2,7,,Other white,5,no,no,2
+93510425,7,2,8,0,Mixed white and black,13,no,,6
+93510232,7,2,9,0,Black Caribbean,16,no,"yes, ever",7
+93593529,7,2,8,0,White British,3,no,no,1
+93510172,7,2,8,1,Black African,,,no,0
+93510176,7,2,8,0,Mixed white and black,17,no,"yes, ever",10
