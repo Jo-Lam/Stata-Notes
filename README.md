@@ -3,7 +3,7 @@
 <p>Hi everyone, this is the repository for the data files we would be using for the Stata tutorial.</p>
 
 # Access to Stata
-<p> If you do not have access to Stata, please email me at joseph.1.lam@kcl.ac.uk with the following information: <br>
+<p> If you do not have access to Stata, please email me at joseph.1.lam@kcl.ac.uk (out-dated) with the following information: <br>
 Title: <br>
 First Name  (Required) <br>
 Last Name  (Required) <br>
